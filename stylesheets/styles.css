@@ -23,7 +23,7 @@ time, mark, audio, video {
 }
 
 
-/* Base text styles */
+/* Base text styles 
 
 body {
   padding:10px 50px 0 0;
@@ -140,7 +140,7 @@ hr {
   margin:0 0 24px;
 }
 
-/* Images */
+ Images 
 
 img {
   position: relative;
@@ -160,7 +160,7 @@ p img {
   border: none;
 }
 
-/* Code blocks */
+ Code blocks 
 
 code, pre {
 	font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
@@ -179,7 +179,7 @@ pre {
 }
 
 
-/* Tables */
+ Tables 
 
 table {
   width:100%;
@@ -206,13 +206,13 @@ td {
  }
 
 
-/* Wrapper */
+ Wrapper 
 .wrapper {
   width:960px;
 }
 
 
-/* Header */
+ Header 
 
 header {
 	background-color: #171717;
@@ -316,7 +316,7 @@ a.buttons:hover {
 }
 
 
-/* Section - for main page content */
+ Section - for main page content 
 
 section {
   width:650px;
@@ -325,7 +325,7 @@ section {
 }
 
 
-/* Footer */
+ Footer 
 
 footer {
   width:170px;
@@ -421,3 +421,4 @@ footer {
     color:#444;
   }
 }
+*/
